@@ -16,7 +16,7 @@
 	"GOENV": "/home/daniel/.config/go/env",
 	"GOEXE": "",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build830712065=/tmp/go-build -gno-record-gcc-switches",
+	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build698112021=/tmp/go-build -gno-record-gcc-switches",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "linux",
 	"GOINSECURE": "",
